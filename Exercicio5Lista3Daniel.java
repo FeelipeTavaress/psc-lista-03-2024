@@ -9,11 +9,6 @@ public class Exercicio5Lista3Daniel {
     public static void main(String[] args) {
         float num1;
         float num2;
-        double soma;
-        double subtracao;
-        double multiplicacao;
-        double divisao;
-        double exponenciacao;
         String operador = " ";
         
         
